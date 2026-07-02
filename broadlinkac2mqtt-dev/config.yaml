@@ -12,6 +12,7 @@ arch:
 startup: application
 boot: auto
 init: false
+host_network: true
 panel_icon: mdi:air-conditioner
 options:
   service:
